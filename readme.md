@@ -7,7 +7,7 @@ What the project does:
     A form is used to take the value from the user input box. The input is added
         into the`topics` array and a function call takes each topic in the array and adds
         a button on the page.
-    When the user clicks on a button, the page pulss in 10 static, non-animatede gif images 
+    When the user clicks on a button, the page pulls in 10 static, non-animatede gif images 
         from the GIPHY API and place them on the page along with a  rating (PG, G, ...).
     When the user clicks one of the still GIPHY images, the gif animates. If the user
          clicks the gif again, it stops playing.
