@@ -1,5 +1,9 @@
-<!-- Sharon Story Smith  sstorysmith@gmail.com
+GifTastic
+Sharon Story Smith  sstorysmith@gmail.com
 2019-08-30 
+Button triggered Ajax
+
+
 What ths application does:
     This appliction loads up an array of .gif topics Sharon is interested in:
                    Sunrise, sunset, tropical storms, storm chasers, flooding, 
@@ -18,13 +22,11 @@ Why the project is useful:
     links to facilitate ease of access --- a very common requirement from users.
 
 How users can get started with the project
-    The screen will display a group of buttons with movie topic interests. Cick on a chosen button to 
-    a max of 10 .gifs of that topic. 
-    If you would like to add new topic buttons with user entered topics of interest, type in your
-    "interest", and click submit. If you would like to watch any of the .gifs displayed, click on
-    the the image of your choice. If the .gif is playing, click to pause, and toggle back and forth.
+    The screen will display a group of buttons with movie topic interests. Cick on a chosen button to a max of 10 .gifs of that topic. 
+    If you would like to add new topic buttons with user entered topics of interest, type in your "interest", and click submit. 
+    If you would like to watch any of the .gifs displayed, click on   the the image of your choice. If the .gif is playing, click to pause, and toggle back and forth.
 
-    this project was completed with these references from classroom coding examples:
+    This project was completed with these references from classroom coding examples:
             class 8/22/2019 - Add movie buttons: movies.solved 8/22
             class 8/24/2019- Start stop giphys: pausing Gifs.solved 
             class 8/22/2019 - Adding elements, displaying gifs from a button click: Button triggered ajax
