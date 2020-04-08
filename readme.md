@@ -1,11 +1,24 @@
-GifTastic
-Sharon Story Smith  sstorysmith@gmail.com
+GiphySearchAndDisplay
+Sharon Story Smith  storysmithsharon@gmail.com
 2019-08-30 
-Button triggered Ajax
+
+![screenshot of GiphySearchandDisplay](.\assets\Images\screenshot.jpg)
+
+Execute  [GiphySearchAndDisplay](https://sstorysmith.github.io/GiphySearchandDisplay/).
+
+To run in your browser, open browser with index.html.
+
+
+
+JQuery
+jQuery, a JavaScript library, takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code.
+It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
+
+AJAX = Asynchronous JavaScript and XML. AJAX is a technique for creating fast and dynamic web pages. AJAX allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page.
 
 
 What ths application does:
-    This appliction loads up an array of .gif topics Sharon is interested in:
+    This appliction loads up a pre-defined array of .gif topics and displays to the user: 
                    Sunrise, sunset, tropical storms, storm chasers, flooding, 
     Each topic generates a button with the topic name. 
 
@@ -14,8 +27,8 @@ What ths application does:
         a button with that topic name onto the page.
     When the user clicks on a topic button, the page pulls in 10 static, non-animated .gif images 
         from the GIPHY API and places them on the page along with a  rating (PG, G, ...).
-    When the user clicks one of the still GIPHY images, the gif animates. If the user
-         clicks the gif again, it stops playing, it toggles.
+    When the user clicks one of the static images, the gif will animate. If the user
+         clicks the gif again, it stops playing; this is a it toggle.
 
 Why the project is useful:
     This project is useful taking user input from the browser screen, finding the .gif resources, then adding clickable
