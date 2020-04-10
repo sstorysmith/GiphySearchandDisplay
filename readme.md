@@ -2,7 +2,7 @@ GiphySearchAndDisplay
 Sharon Story Smith  storysmithsharon@gmail.com
 2019-08-30 
 
-![screenshot of GiphySearchandDisplay](.\screenshot.jpg)
+![screenshot of GiphySearchandDisplay](screenshot.jpg)
 
 Execute  [GiphySearchAndDisplay](https://sstorysmith.github.io/GiphySearchandDisplay/).
 
