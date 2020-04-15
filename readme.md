@@ -1,6 +1,6 @@
 GiphySearchAndDisplay   
-Sharon Story Smith  storysmithsharon@gmail.com
-2019-08-30   
+Sharon Story Smith  storysmithsharon@gmail.com  
+2019-08-30 
 
 Screen Shot: [screenshot](screenshot.jpg)
 
@@ -27,12 +27,6 @@ Overview:
     - If you would like to add new topic buttons with your topics of interest, type in your "interest" into the topic box and click submit. 
     - If you would like to animate any of the .gifs displayed, click on the the .gif image of your choice. If the .gif is animated, click to pause, and toggle back and forth.  
 
-
-
-    This project was completed with these references from classroom coding examples:
-            class 8/22/2019 - Add movie buttons: movies.solved 8/22
-            class 8/24/2019- Start stop giphys: pausing Gifs.solved 
-            class 8/22/2019 - Adding elements, displaying gifs from a button click: Button triggered ajax  
 
 Design Flow:  
     This appliction loads up a pre-defined array of .gif topics and displays to the user: 
