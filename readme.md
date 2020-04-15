@@ -23,8 +23,8 @@ AJAX = Asynchronous JavaScript and XML. AJAX is a technique for creating fast an
 
 
 Overview:
-    - The screen will display a group of buttons with movie topic interests. Cick on a chosen button see a list of 10 .gifs for that topic.   
-    - If you would like to add new topic buttons with your topics of interest, type in your "interest" into the topic box and click submit. 
+    - The screen will display a group of buttons with movie topic interests. Cick on a chosen button see a list of 10 .gifs for that topic.      
+    - If you would like to add new topic buttons with your topics of interest, type in your "interest" into the topic box and click submit.   
     - If you would like to animate any of the .gifs displayed, click on the the .gif image of your choice. If the .gif is animated, click to pause, and toggle back and forth.  
 
 
